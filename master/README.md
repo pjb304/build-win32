@@ -56,11 +56,10 @@ Build/Tool Related Dependencies
 -------------------------------
     sudo apt-get install build-essential \
 	wine \
-	mingw \
+	gcc-mingw-w64-x86-64 \
 	jhbuild \
 	autoconf \
 	automake1.4 \
-	automake1.7 \
 	automake1.9 \
 	autotools-dev \
 	docbook-utils \
